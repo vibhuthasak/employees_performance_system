@@ -1,0 +1,17 @@
+<clients>
+	<client ip='192.168.8.102' port='22' username='12' password='hello123' mail="vkartz@gmail.com">
+	 <alert type="memory" limit="55%"/>
+	 <alert type="cpu" limit="21%" />
+	</client>
+
+	<client ip='192.168.8.102' port='22' username='12' password='hello123' mail="vkartz@gmail.com">
+	 <alert type="memory" limit="55%"/>
+	 <alert type="cpu" limit="21%" />
+	</client>
+
+    <client ip='192.168.8.102' port='22' username='12' password='hello123' mail="vkartz@gmail.com">
+	 <alert type="memory" limit="55%"/>
+	 <alert type="cpu" limit="21%" />
+	</client>
+
+</clients>
